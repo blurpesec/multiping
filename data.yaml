@@ -1,0 +1,1038 @@
+- token: ETH
+  success: true
+  first:
+    ETH:
+      USD: 168.01
+      ETH: 1
+  second:
+    ETH:
+      EUR: 152.14
+      CNY: 1232.93
+  third:
+    ETH:
+      GBP: 138.07
+  fourth:
+    Response: Success
+    Type: 100
+    Aggregated: false
+    Data:
+      - time: 1564444800
+        close: 209.82
+        high: 214.39
+        low: 204.58
+        open: 210.83
+        volumefrom: 163905.97
+        volumeto: 34387958.79
+      - time: 1564531200
+        close: 218.7
+        high: 218.98
+        low: 209.73
+        open: 209.82
+        volumefrom: 212060.61
+        volumeto: 45601288.97
+      - time: 1564617600
+        close: 217.51
+        high: 219.28
+        low: 211.04
+        open: 218.7
+        volumefrom: 187353.48
+        volumeto: 40239508.23
+      - time: 1564704000
+        close: 217.7
+        high: 222.66
+        low: 214.99
+        open: 217.51
+        volumefrom: 209180.55
+        volumeto: 45725495.69
+      - time: 1564790400
+        close: 222.02
+        high: 224.6
+        low: 216.25
+        open: 217.7
+        volumefrom: 183417.15
+        volumeto: 40674495.72
+      - time: 1564876800
+        close: 222.7
+        high: 223.65
+        low: 217.5
+        open: 222.02
+        volumefrom: 114461.74
+        volumeto: 25241603.35
+      - time: 1564963200
+        close: 233.19
+        high: 236.66
+        low: 222.7
+        open: 222.7
+        volumefrom: 386277.04
+        volumeto: 89350182.76
+      - time: 1565049600
+        close: 225.94
+        high: 239.54
+        low: 222.67
+        open: 233.19
+        volumefrom: 380340.77
+        volumeto: 87568875.48
+      - time: 1565136000
+        close: 225.99
+        high: 231.1
+        low: 220.8
+        open: 225.94
+        volumefrom: 250272.48
+        volumeto: 56477444.19
+      - time: 1565222400
+        close: 221.18
+        high: 226.62
+        low: 215.18
+        open: 225.99
+        volumefrom: 323766.4
+        volumeto: 71719199.11
+      - time: 1565308800
+        close: 210.47
+        high: 221.57
+        low: 207.03
+        open: 221.18
+        volumefrom: 285074.71
+        volumeto: 60745552.66
+      - time: 1565395200
+        close: 206.26
+        high: 214.66
+        low: 200.92
+        open: 210.47
+        volumefrom: 211225.25
+        volumeto: 43695144.13
+      - time: 1565481600
+        close: 216.39
+        high: 216.67
+        low: 205.95
+        open: 206.26
+        volumefrom: 205480.7
+        volumeto: 43633101.97
+      - time: 1565568000
+        close: 211.28
+        high: 216.66
+        low: 209.88
+        open: 216.39
+        volumefrom: 161487.39
+        volumeto: 34348705.05
+      - time: 1565654400
+        close: 208.62
+        high: 211.35
+        low: 203.38
+        open: 211.28
+        volumefrom: 234325
+        volumeto: 48703109.59
+      - time: 1565740800
+        close: 186.49
+        high: 209.25
+        low: 182.82
+        open: 208.62
+        volumefrom: 454485.25
+        volumeto: 88474941.86
+      - time: 1565827200
+        close: 188.24
+        high: 189.82
+        low: 173.67
+        open: 186.49
+        volumefrom: 501812.98
+        volumeto: 91912998.77
+      - time: 1565913600
+        close: 185.41
+        high: 188.24
+        low: 178.62
+        open: 188.24
+        volumefrom: 262219.72
+        volumeto: 48178947.23
+      - time: 1566000000
+        close: 185.69
+        high: 186.98
+        low: 182.12
+        open: 185.41
+        volumefrom: 117600.53
+        volumeto: 21707530.3
+      - time: 1566086400
+        close: 194.77
+        high: 198.11
+        low: 183.49
+        open: 185.69
+        volumefrom: 187983.23
+        volumeto: 36135946.97
+      - time: 1566172800
+        close: 202.43
+        high: 203.57
+        low: 193.13
+        open: 194.77
+        volumefrom: 254120.95
+        volumeto: 50663464.37
+      - time: 1566259200
+        close: 196.55
+        high: 202.94
+        low: 194.89
+        open: 202.43
+        volumefrom: 175421.3
+        volumeto: 34717145.09
+      - time: 1566345600
+        close: 187.32
+        high: 197.15
+        low: 180.3
+        open: 196.55
+        volumefrom: 318037.02
+        volumeto: 59587511.56
+      - time: 1566432000
+        close: 190.74
+        high: 195.09
+        low: 182.87
+        open: 187.32
+        volumefrom: 249824.22
+        volumeto: 47325783.06
+      - time: 1566518400
+        close: 194.64
+        high: 196.59
+        low: 188.72
+        open: 190.74
+        volumefrom: 233592.37
+        volumeto: 45062633.6
+      - time: 1566604800
+        close: 191.08
+        high: 194.66
+        low: 186.45
+        open: 194.64
+        volumefrom: 143754.89
+        volumeto: 27303728.98
+      - time: 1566691200
+        close: 186.58
+        high: 192.84
+        low: 183.16
+        open: 191.08
+        volumefrom: 147083.56
+        volumeto: 27576744.26
+      - time: 1566777600
+        close: 188.46
+        high: 194.2
+        low: 185.89
+        open: 186.58
+        volumefrom: 223080.45
+        volumeto: 42356290.49
+      - time: 1566864000
+        close: 187.17
+        high: 189.05
+        low: 184.74
+        open: 188.46
+        volumefrom: 130880.53
+        volumeto: 24444251.34
+      - time: 1566950400
+        close: 173.01
+        high: 188
+        low: 166.36
+        open: 187.17
+        volumefrom: 368207
+        volumeto: 65052446.02
+      - time: 1567036800
+        close: 168.95
+        high: 173.52
+        low: 164.19
+        open: 173.01
+        volumefrom: 290888.85
+        volumeto: 49164451.48
+      - time: 1567123200
+        close: 168.08
+        high: 170.13
+        low: 165.95
+        open: 168.95
+        volumefrom: 40835.26
+        volumeto: 6854965.95
+    TimeTo: 1567123200
+    TimeFrom: 1564444800
+    FirstValueInArray: true
+    ConversionType:
+      type: direct
+      conversionSymbol: ''
+    RateLimit: {}
+    HasWarning: false
+- token: BAT
+  success: true
+  first:
+    BAT:
+      USD: 0.1721
+      ETH: 0.001024
+  second:
+    BAT:
+      EUR: 0.156
+      CNY: 1.263
+  third:
+    BAT:
+      GBP: 0.1414
+  fourth:
+    Response: Success
+    Type: 100
+    Aggregated: false
+    Data:
+      - time: 1564444800
+        high: 0.2574
+        low: 0.2409
+        open: 0.254
+        volumefrom: 10433165.57
+        volumeto: 2579078.53
+        close: 0.2472
+      - time: 1564531200
+        high: 0.2611
+        low: 0.2444
+        open: 0.2472
+        volumefrom: 7330248.44
+        volumeto: 1813503.46
+        close: 0.2474
+      - time: 1564617600
+        high: 0.2558
+        low: 0.2319
+        open: 0.2474
+        volumefrom: 9905135.67
+        volumeto: 2345536.13
+        close: 0.2368
+      - time: 1564704000
+        high: 0.2494
+        low: 0.2321
+        open: 0.2368
+        volumefrom: 14710109.11
+        volumeto: 3477469.79
+        close: 0.2364
+      - time: 1564790400
+        high: 0.2442
+        low: 0.2297
+        open: 0.2364
+        volumefrom: 11186587.68
+        volumeto: 2628848.1
+        close: 0.235
+      - time: 1564876800
+        high: 0.2479
+        low: 0.2334
+        open: 0.235
+        volumefrom: 11101809.82
+        volumeto: 2631128.93
+        close: 0.237
+      - time: 1564963200
+        high: 0.2551
+        low: 0.2298
+        open: 0.237
+        volumefrom: 19520644.55
+        volumeto: 4556118.44
+        close: 0.2334
+      - time: 1565049600
+        high: 0.2296
+        low: 0.2127
+        open: 0.2334
+        volumefrom: 16256996.74
+        volumeto: 3522891.19
+        close: 0.2167
+      - time: 1565136000
+        high: 0.2436
+        low: 0.2155
+        open: 0.2167
+        volumefrom: 23987890.18
+        volumeto: 5334906.78
+        close: 0.2224
+      - time: 1565222400
+        high: 0.2349
+        low: 0.209
+        open: 0.2224
+        volumefrom: 23452669.63
+        volumeto: 4913334.29
+        close: 0.2095
+      - time: 1565308800
+        high: 0.2111
+        low: 0.1958
+        open: 0.2095
+        volumefrom: 11419788.47
+        volumeto: 2272537.91
+        close: 0.199
+      - time: 1565395200
+        high: 0.2057
+        low: 0.1889
+        open: 0.199
+        volumefrom: 15203176.65
+        volumeto: 3071041.68
+        close: 0.202
+      - time: 1565481600
+        high: 0.2125
+        low: 0.2041
+        open: 0.202
+        volumefrom: 11466683.58
+        volumeto: 2394243.53
+        close: 0.2088
+      - time: 1565568000
+        high: 0.2083
+        low: 0.1993
+        open: 0.2088
+        volumefrom: 7222102.08
+        volumeto: 1468975.56
+        close: 0.2034
+      - time: 1565654400
+        high: 0.2017
+        low: 0.1863
+        open: 0.2034
+        volumefrom: 20463564.98
+        volumeto: 4029275.94
+        close: 0.1969
+      - time: 1565740800
+        high: 0.1865
+        low: 0.162
+        open: 0.1969
+        volumefrom: 24637975.97
+        volumeto: 4134252.37
+        close: 0.1678
+      - time: 1565827200
+        high: 0.1879
+        low: 0.1714
+        open: 0.1678
+        volumefrom: 14611980.04
+        volumeto: 2736823.86
+        close: 0.1873
+      - time: 1565913600
+        high: 0.1905
+        low: 0.1771
+        open: 0.1873
+        volumefrom: 12882335.01
+        volumeto: 2304649.73
+        close: 0.1789
+      - time: 1566000000
+        high: 0.1794
+        low: 0.1741
+        open: 0.1789
+        volumefrom: 5669220.91
+        volumeto: 1001184.41
+        close: 0.1766
+      - time: 1566086400
+        high: 0.1899
+        low: 0.1777
+        open: 0.1766
+        volumefrom: 7780642.89
+        volumeto: 1436306.68
+        close: 0.1846
+      - time: 1566172800
+        high: 0.1987
+        low: 0.1851
+        open: 0.1846
+        volumefrom: 6984035.53
+        volumeto: 1292744.98
+        close: 0.1851
+      - time: 1566259200
+        high: 0.1839
+        low: 0.179
+        open: 0.1851
+        volumefrom: 4866826.7
+        volumeto: 874568.76
+        close: 0.1797
+      - time: 1566345600
+        high: 0.1909
+        low: 0.1684
+        open: 0.1797
+        volumefrom: 15503186.33
+        volumeto: 2835532.78
+        close: 0.1829
+      - time: 1566432000
+        high: 0.208
+        low: 0.1803
+        open: 0.1829
+        volumefrom: 31227702.87
+        volumeto: 6242417.8
+        close: 0.1999
+      - time: 1566518400
+        high: 0.206
+        low: 0.1943
+        open: 0.1999
+        volumefrom: 12900229.72
+        volumeto: 2605846.4
+        close: 0.202
+      - time: 1566604800
+        high: 0.2087
+        low: 0.1931
+        open: 0.202
+        volumefrom: 11987404.56
+        volumeto: 2437039.35
+        close: 0.2033
+      - time: 1566691200
+        high: 0.2069
+        low: 0.191
+        open: 0.2033
+        volumefrom: 9392405.09
+        volumeto: 1804281.02
+        close: 0.1921
+      - time: 1566777600
+        high: 0.1965
+        low: 0.1854
+        open: 0.1921
+        volumefrom: 12268066.11
+        volumeto: 2303942.82
+        close: 0.1878
+      - time: 1566864000
+        high: 0.1892
+        low: 0.1751
+        open: 0.1878
+        volumefrom: 13320077.93
+        volumeto: 2514830.71
+        close: 0.1888
+      - time: 1566950400
+        high: 0.1903
+        low: 0.1738
+        open: 0.1888
+        volumefrom: 13266740.71
+        volumeto: 2421180.18
+        close: 0.1825
+      - time: 1567036800
+        high: 0.1785
+        low: 0.1621
+        open: 0.1825
+        volumefrom: 13270014.31
+        volumeto: 2263864.44
+        close: 0.1706
+      - time: 1567123200
+        high: 0.1721
+        low: 0.1693
+        open: 0.1706
+        volumefrom: 722696.11
+        volumeto: 123870.11
+        close: 0.1721
+    TimeTo: 1567123200
+    TimeFrom: 1564444800
+    FirstValueInArray: true
+    ConversionType:
+      type: multiply
+      conversionSymbol: BTC
+    RateLimit: {}
+    HasWarning: false
+- token: AURA
+  success: true
+  first:
+    Response: Error
+    Message: There is no data for any of the toSymbol/s AURA .
+    HasWarning: true
+    Type: 2
+    RateLimit: {}
+    Data: {}
+    Warning: 'There is no data for the toSymbol/s AURA '
+    ParamWithError: fsyms
+  second:
+    Response: Error
+    Message: There is no data for any of the toSymbol/s AURA .
+    HasWarning: true
+    Type: 2
+    RateLimit: {}
+    Data: {}
+    Warning: 'There is no data for the toSymbol/s AURA '
+    ParamWithError: fsyms
+  third:
+    Response: Error
+    Message: There is no data for any of the toSymbol/s AURA .
+    HasWarning: true
+    Type: 2
+    RateLimit: {}
+    Data: {}
+    Warning: 'There is no data for the toSymbol/s AURA '
+    ParamWithError: fsyms
+  fourth:
+    Response: Error
+    Message: There is no data for the symbol AURA .
+    HasWarning: false
+    Type: 2
+    RateLimit: {}
+    Data: {}
+    ParamWithError: fsym
+- token: AUTO
+  success: true
+  first:
+    AUTO:
+      USD: 0.0009879
+      ETH: 0.00000588
+  second:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 35
+        minute: 35
+        hour: 241
+        day: 979
+        month: 9135
+        total_calls: 9135
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  third:
+    AUTO:
+      GBP: 0.0008119
+  fourth:
+    Response: Success
+    Type: 100
+    Aggregated: false
+    Data:
+      - time: 1564444800
+        high: 0.001259
+        low: 0.001173
+        open: 0.0012
+        volumefrom: 385597467.8
+        volumeto: 473128.09
+        close: 0.001227
+      - time: 1564531200
+        high: 0.001279
+        low: 0.001236
+        open: 0.001227
+        volumefrom: 380355170.8
+        volumeto: 472401.12
+        close: 0.001242
+      - time: 1564617600
+        high: 0.001396
+        low: 0.001198
+        open: 0.001242
+        volumefrom: 312576850.1
+        volumeto: 413226.6
+        close: 0.001322
+      - time: 1564704000
+        high: 0.001415
+        low: 0.001206
+        open: 0.001322
+        volumefrom: 236026016.8
+        volumeto: 300697.15
+        close: 0.001274
+      - time: 1564790400
+        high: 0.001461
+        low: 0.001237
+        open: 0.001274
+        volumefrom: 183526299.7
+        volumeto: 239134.77
+        close: 0.001303
+      - time: 1564876800
+        high: 0.001307
+        low: 0.001272
+        open: 0.001303
+        volumefrom: 214373
+        volumeto: 272.68
+        close: 0.001272
+      - time: 1564963200
+        high: 0.001332
+        low: 0.001073
+        open: 0.001272
+        volumefrom: 2524235.1
+        volumeto: 2943.26
+        close: 0.001166
+      - time: 1565049600
+        high: 0.001369
+        low: 0.001071
+        open: 0.001166
+        volumefrom: 287940512.1
+        volumeto: 336314.52
+        close: 0.001168
+      - time: 1565136000
+        high: 0.001304
+        low: 0.001069
+        open: 0.001168
+        volumefrom: 165646940.6
+        volumeto: 191653.51
+        close: 0.001157
+      - time: 1565222400
+        high: 0.001234
+        low: 0.00104
+        open: 0.001157
+        volumefrom: 87193439.1
+        volumeto: 96784.72
+        close: 0.00111
+      - time: 1565308800
+        high: 0.001151
+        low: 0.001057
+        open: 0.00111
+        volumefrom: 148637128.4
+        volumeto: 159933.55
+        close: 0.001076
+      - time: 1565395200
+        high: 0.001101
+        low: 0.001052
+        open: 0.001076
+        volumefrom: 1281250.7
+        volumeto: 1379.91
+        close: 0.001077
+      - time: 1565481600
+        high: 0.00113
+        low: 0.00113
+        open: 0.001077
+        volumefrom: 0
+        volumeto: 0
+        close: 0.00113
+      - time: 1565568000
+        high: 0.00123
+        low: 0.001071
+        open: 0.00113
+        volumefrom: 179245725.8
+        volumeto: 196991.05
+        close: 0.001099
+      - time: 1565654400
+        high: 0.001162
+        low: 0.001081
+        open: 0.001099
+        volumefrom: 31545324.4
+        volumeto: 34100.5
+        close: 0.001081
+      - time: 1565740800
+        high: 0.000966
+        low: 0.0009492
+        open: 0.001081
+        volumefrom: 1343.1
+        volumeto: 1.275
+        close: 0.0009492
+      - time: 1565827200
+        high: 0.001114
+        low: 0.0009581
+        open: 0.0009492
+        volumefrom: 198467.8
+        volumeto: 221.09
+        close: 0.001114
+      - time: 1565913600
+        high: 0.001098
+        low: 0.001012
+        open: 0.001114
+        volumefrom: 371305598.2
+        volumeto: 392470.02
+        close: 0.001057
+      - time: 1566000000
+        high: 0.001073
+        low: 0.001021
+        open: 0.001057
+        volumefrom: 390936033.6
+        volumeto: 403445.99
+        close: 0.001032
+      - time: 1566086400
+        high: 0.001122
+        low: 0.001028
+        open: 0.001032
+        volumefrom: 91691159
+        volumeto: 94258.51
+        close: 0.001028
+      - time: 1566172800
+        high: 0.001144
+        low: 0.0009332
+        open: 0.001028
+        volumefrom: 56123363.4
+        volumeto: 55781.01
+        close: 0.0009939
+      - time: 1566259200
+        high: 0.001097
+        low: 0.0009651
+        open: 0.0009939
+        volumefrom: 288168559.9
+        volumeto: 297966.29
+        close: 0.001034
+      - time: 1566345600
+        high: 0.001032
+        low: 0.0009816
+        open: 0.001034
+        volumefrom: 326597003
+        volumeto: 335415.12
+        close: 0.001027
+      - time: 1566432000
+        high: 0.001104
+        low: 0.001028
+        open: 0.001027
+        volumefrom: 338100002.3
+        volumeto: 352638.3
+        close: 0.001043
+      - time: 1566518400
+        high: 0.001135
+        low: 0.001043
+        open: 0.001043
+        volumefrom: 252901752.3
+        volumeto: 281985.45
+        close: 0.001115
+      - time: 1566604800
+        high: 0.001108
+        low: 0.001076
+        open: 0.001115
+        volumefrom: 371761444.1
+        volumeto: 407078.78
+        close: 0.001095
+      - time: 1566691200
+        high: 0.001101
+        low: 0.001041
+        open: 0.001095
+        volumefrom: 50619696.8
+        volumeto: 54416.17
+        close: 0.001075
+      - time: 1566777600
+        high: 0.001118
+        low: 0.001033
+        open: 0.001075
+        volumefrom: 342262304.5
+        volumeto: 381964.73
+        close: 0.001116
+      - time: 1566864000
+        high: 0.00111
+        low: 0.001048
+        open: 0.001116
+        volumefrom: 30881884.2
+        volumeto: 33167.14
+        close: 0.001074
+      - time: 1566950400
+        high: 0.001019
+        low: 0.0009533
+        open: 0.001074
+        volumefrom: 288063873.1
+        volumeto: 288063.87
+        close: 0.001
+      - time: 1567036800
+        high: 0.001005
+        low: 0.0009512
+        open: 0.001
+        volumefrom: 357504221.2
+        volumeto: 355144.69
+        close: 0.0009934
+      - time: 1567123200
+        high: 0.0009965
+        low: 0.0009712
+        open: 0.0009934
+        volumefrom: 60447476.3
+        volumeto: 59824.87
+        close: 0.0009883
+    TimeTo: 1567123200
+    TimeFrom: 1564444800
+    FirstValueInArray: true
+    ConversionType:
+      type: multiply
+      conversionSymbol: ETH
+    RateLimit: {}
+    HasWarning: false
+- token: AVA
+  success: true
+  first:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 21
+        minute: 21
+        hour: 227
+        day: 965
+        month: 9121
+        total_calls: 9121
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  second:
+    Response: Error
+    Message: 'There is no data for any of the toSymbols EUR,CNY .'
+    HasWarning: true
+    Type: 2
+    RateLimit: {}
+    Data: {}
+    Warning: 'There is no data for the toSymbol/s EUR CNY '
+    ParamWithError: tsyms
+  third:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 22
+        minute: 22
+        hour: 228
+        day: 966
+        month: 9122
+        total_calls: 9122
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  fourth:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 24
+        minute: 24
+        hour: 230
+        day: 968
+        month: 9124
+        total_calls: 9124
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+- token: AVT
+  success: true
+  first:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 31
+        minute: 31
+        hour: 237
+        day: 975
+        month: 9131
+        total_calls: 9131
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  second:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 25
+        minute: 25
+        hour: 231
+        day: 969
+        month: 9125
+        total_calls: 9125
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  third:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 26
+        minute: 26
+        hour: 232
+        day: 970
+        month: 9126
+        total_calls: 9126
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  fourth:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 30
+        minute: 30
+        hour: 236
+        day: 974
+        month: 9130
+        total_calls: 9130
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+- token: AXPR
+  success: true
+  first:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 28
+        minute: 28
+        hour: 234
+        day: 972
+        month: 9128
+        total_calls: 9128
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  second:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 27
+        minute: 27
+        hour: 233
+        day: 971
+        month: 9127
+        total_calls: 9127
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  third:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 34
+        minute: 34
+        hour: 240
+        day: 978
+        month: 9134
+        total_calls: 9134
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
+  fourth:
+    Response: Error
+    Message: You are over your rate limit please upgrade your account!
+    HasWarning: false
+    Type: 99
+    RateLimit:
+      calls_made:
+        second: 33
+        minute: 33
+        hour: 239
+        day: 977
+        month: 9133
+        total_calls: 9133
+      max_calls:
+        second: 20
+        minute: 600
+        hour: 10000
+        day: 100000
+        month: 1000000
+    Data: {}
