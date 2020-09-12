@@ -12,6 +12,6 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "js-yaml": "^3.13.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
